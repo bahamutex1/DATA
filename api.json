@@ -60,17 +60,17 @@
         "url": "http://tt.ysdqjs.cn"
       }
     },
-      {
-            "key": "火车影视",
-            "name": "火车｜影视",
-            "type": 3,
-            "api": "./py/火车影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+    {
+        "key": "火车影视",
+        "name": "火车｜影视",
+        "type": 3,
+        "api": "./py/火车影视.py",
+        "searchable": 1,
+        "changeable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "playerType": 2
+     },
     {
       "key": "浪酷影视",
       "name": "浪酷｜APP",
